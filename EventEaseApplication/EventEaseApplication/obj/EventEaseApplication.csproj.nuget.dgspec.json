@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Centu\\OneDrive\\Desktop\\University\\CLDV6211\\EventEase\\EventEase\\EventEaseApplication\\EventEaseApplication\\EventEaseApplication.csproj": {}
+    "C:\\Users\\Centu\\OneDrive\\Desktop\\University\\Year 2\\CLDV6211\\EventEase\\EventEase\\EventEaseApplication\\EventEaseApplication\\EventEaseApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Centu\\OneDrive\\Desktop\\University\\CLDV6211\\EventEase\\EventEase\\EventEaseApplication\\EventEaseApplication\\EventEaseApplication.csproj": {
+    "C:\\Users\\Centu\\OneDrive\\Desktop\\University\\Year 2\\CLDV6211\\EventEase\\EventEase\\EventEaseApplication\\EventEaseApplication\\EventEaseApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Centu\\OneDrive\\Desktop\\University\\CLDV6211\\EventEase\\EventEase\\EventEaseApplication\\EventEaseApplication\\EventEaseApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Centu\\OneDrive\\Desktop\\University\\Year 2\\CLDV6211\\EventEase\\EventEase\\EventEaseApplication\\EventEaseApplication\\EventEaseApplication.csproj",
         "projectName": "EventEaseApplication",
-        "projectPath": "C:\\Users\\Centu\\OneDrive\\Desktop\\University\\CLDV6211\\EventEase\\EventEase\\EventEaseApplication\\EventEaseApplication\\EventEaseApplication.csproj",
+        "projectPath": "C:\\Users\\Centu\\OneDrive\\Desktop\\University\\Year 2\\CLDV6211\\EventEase\\EventEase\\EventEaseApplication\\EventEaseApplication\\EventEaseApplication.csproj",
         "packagesPath": "C:\\Users\\Centu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Centu\\OneDrive\\Desktop\\University\\CLDV6211\\EventEase\\EventEase\\EventEaseApplication\\EventEaseApplication\\obj\\",
+        "outputPath": "C:\\Users\\Centu\\OneDrive\\Desktop\\University\\Year 2\\CLDV6211\\EventEase\\EventEase\\EventEaseApplication\\EventEaseApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,6 +63,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [

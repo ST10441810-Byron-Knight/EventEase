@@ -42,7 +42,7 @@ VALUES ('1', '1', 'DD-MM-YYYY')
 
 -- Table manipulation section
 SELECT * FROM Venue
-SELECT * FROM Event
+SELECT * FROM [Event]
 SELECT * FROM Booking
 
 -- Stored procedures

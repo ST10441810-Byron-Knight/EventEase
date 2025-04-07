@@ -1,7 +1,15 @@
+using EventEaseApplication.Data;
+using Microsoft.AspNetCore.Hosting.Builder;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//Register database context
+builder.Services.AddDbContext<EEDbContext>(options =>
+options.UseSqlServer(builder.Configuration.GetConnectionString("AzureConn")));
 
 var app = builder.Build();
 
